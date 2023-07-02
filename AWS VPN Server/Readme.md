@@ -26,7 +26,7 @@ a. For the security group, a new security group will be created and you can leav
 
 b. For the key pair you can create a new key pair or you can select an existing one if you already have one.
 
-Step3 photo
+<img width="1440" alt="Step 3" src="https://github.com/Adya10/cloudprojects/assets/82889880/93f3a051-6a7e-4383-9414-a3cb831e399f">
 
 Step 4.
 
