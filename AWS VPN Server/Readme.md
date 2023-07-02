@@ -1,6 +1,7 @@
 This is a step by step guide of how to make a VPN server in AWS
 
 Step 1.
+
 a. Go in amazon console and search for EC2
 b. Launch a new instance with an AMI from amazon market place.
 c. In amazon market place search for openvpn and press enter.
