@@ -7,7 +7,7 @@ c. In amazon market place search for openvpn and press enter.
 d. Scroll a bit until you find free tier eligible AMI
 e. Select that AMI
 
-Step1 photo
+<img width="1440" alt="Step 1" src="https://github.com/Adya10/cloudprojects/assets/82889880/b16c9ac1-fb21-4858-a369-a9a84b3c63f9">
 
 Step 2.
 a. Once you've selected an AMI, select t2.micro as your instance type.
