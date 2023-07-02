@@ -18,7 +18,7 @@ Step 2.
 
 a. Once you've selected an AMI, select t2.micro as your instance type.
 
-Step2 photo
+<img width="1440" alt="Step 2" src="https://github.com/Adya10/cloudprojects/assets/82889880/7028c8b8-fcb4-4a0f-8734-cffc4644f505">
 
 Step 3.
 
