@@ -14,6 +14,8 @@ Objectives:
 
 Architecture after all the implementations:
 
+<img width="833" alt="1  Creating static website for the cafe" src="https://github.com/Adya10/cloudprojects/assets/82889880/ed7a0435-6220-4e3d-856f-7b2f0c067500">
+
 
 
 <img width="1440" alt="Screenshot 2023-07-24 at 1 52 24 PM" src="https://github.com/Adya10/cloudprojects/assets/82889880/cebd6d5d-d812-4bd6-87b2-295c4b7f4f9c">
