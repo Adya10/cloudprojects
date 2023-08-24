@@ -5,9 +5,16 @@ The café currently doesn’t have a marketing strategy. They mostly gain new cu
 Objectives:
 
 1)Host a static website by using Amazon S3
+
 2)Implement one way to protect your data with Amazon S3
+
 3)Implement a data lifecycle strategy in Amazon S3
+
 4)Implement a disaster recovery (DR) strategy in Amazon S3
+
+Architecture after all the implementations:
+
+
 
 <img width="1440" alt="Screenshot 2023-07-24 at 1 52 24 PM" src="https://github.com/Adya10/cloudprojects/assets/82889880/cebd6d5d-d812-4bd6-87b2-295c4b7f4f9c">
 
